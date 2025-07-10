@@ -1,5 +1,5 @@
-def hello();
-   return "Hello, Jenkins!"
+def hello():
+    return "Hello, Jenkins!"
 
-if ___name___ == "__main__":
-     print(hello(())
+if __name__ == "__main__":
+    print(hello())
